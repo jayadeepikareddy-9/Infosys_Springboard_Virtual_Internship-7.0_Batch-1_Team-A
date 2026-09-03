@@ -2,142 +2,208 @@
 
 ## 🚀 Project Overview
 
-This project was completed as part of the **Infosys Springboard Virtual Internship 7.0**.
+This project was completed as part of the **Infosys Springboard Virtual Internship 7.0** and focuses on **Supply Chain Visibility & Optimization using Business Intelligence and Data Analytics**.
 
-**Supply Chain Visibility System with Optimization Analytics** is an interactive **Business Intelligence and Data Analytics** project developed using **Microsoft Power BI**. The project analyzes the **DataCo Supply Chain Dataset** to monitor sales performance, product performance, customer behavior, delivery status, regional markets, shipping efficiency, and business profitability through interactive dashboards.
+The project analyzes the **DataCo Supply Chain Dataset** to understand sales, orders, products, customers, shipping, delivery performance, markets, discounts, and profitability. The raw supply chain data was cleaned, transformed, and visualized using **Microsoft Power BI** to generate meaningful business insights through **seven interactive dashboards**.
 
-The project demonstrates how **Business Intelligence and Data Analytics** can be used to solve real-world supply chain problems by providing data-driven insights, interactive visualizations, and meaningful business analysis for effective decision-making.
+The project demonstrates how **Power BI dashboards** improve supply chain visibility, support operational monitoring, identify performance trends, and enable **data-driven business decision-making**.
 
 ---
 
 ## 🗂️ Project Files
 
-This repository contains the following project resources:
+The repository contains the following project resources:
 
-- 📁 **Team_Members_PPT** – Team presentation PowerPoint slides.
-- 📁 **Individual_PPT** – Individual presentation PowerPoint.
-- 📁 **Dashboard_Screenshots** – Screenshots of all seven Power BI dashboards.
-- 📁 **Data_Preprocessing** – Power Query Editor preprocessing screenshots.
-- 📁 **PowerBI_Dashboard** – Main Power BI dashboard (.pbix) file.
-- 📁 **Project_Report** – Final internship report (PDF).
-- 📄 **README.md** – Project documentation and overview.
-- 📄 **LICENSE** – Repository license.
+| **File / Folder** | **Description** |
+|-------------------|-----------------|
+| 📁 `Team_Members_PPT/` | Individual presentation slides prepared by team members. |
+| 📄 `DataCoSupplyChainDataset.csv` | Supply chain dataset used for analysis. |
+| 📊 `SupplyChainVisibilityOptimization.pbix` | Power BI dashboard containing all seven dashboards. |
+| 📑 `Internship_Completion_Report.pdf` | Final internship completion report. |
+| 📽️ `Team_Presentation.pptx` | Final team presentation. |
+| 📜 `LICENSE` | MIT License for the repository. |
+| 📘 `README.md` | Project overview and documentation. |
 
 ---
 
-## 🚀 Key Features
+## 🎯 Objectives
 
-### 📊 Supply Chain Executive Dashboard
+- Improve supply chain visibility through interactive Power BI dashboards.
+- Analyze sales, orders, customers, products, shipping, discounts, and profitability.
+- Identify operational bottlenecks and business performance trends.
+- Monitor important Key Performance Indicators (KPIs).
+- Support data-driven decision-making using Business Intelligence.
+- Improve logistics efficiency and customer service through dashboard insights.
+- Demonstrate the practical application of Power BI in supply chain analytics.
 
-Provides an overview of Total Orders, Total Sales, Total Profit, Average Shipping Days, Market-wise Sales, and Delivery Status KPIs.
+---
 
-### 🔍 Product Performance Dashboard
+## 🔑 Key Features
 
-Analyzes product categories, departments, product pricing, top-selling products, and overall product revenue contribution.
+### 📊 Interactive Power BI Dashboard
 
-### 👥 Customer Analysis Dashboard
+Provides an interactive business intelligence dashboard with KPIs, charts, filters, and slicers for supply chain analysis.
 
-Visualizes customer distribution across markets, states, customer segments, and customer purchasing behavior.
+### 📦 Product Performance Analysis
 
-### 🚚 Delivery Status Dashboard
+Analyzes top-selling products, product categories, departments, pricing, and product sales contribution.
 
-Monitors shipping modes, delivery performance, scheduled shipping days, and late delivery analysis.
+### 👥 Customer & Geographic Analysis
 
-### 🌍 Regional & Customer Insights Dashboard
+Provides customer segmentation, customer location analysis, state-wise sales, city-wise sales, and geographic distribution.
 
-Analyzes regional sales, customer segment contribution, market performance, average sales, and business profitability.
+### 🚚 Delivery & Shipping Analysis
+
+Monitors delivery status, shipping modes, average shipping days, and logistics performance across different markets.
+
+### 📈 Market & Profitability Analysis
+
+Analyzes regional sales, discount trends, order performance, shipping profitability, and overall business profit.
+
+### 🔍 Data-Driven Insights
+
+Generates meaningful insights that help improve supply chain planning, inventory management, delivery performance, and business growth.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-| Technology | Purpose |
-|------------|---------|
-| **Microsoft Power BI** | Dashboard creation and data visualization |
-| **Power Query Editor** | Data cleaning and preprocessing |
-| **Microsoft Excel (CSV Dataset)** | Data source |
-| **GitHub** | Project documentation and version control |
-| **Infosys Springboard** | Internship platform and project submission |
+- **Microsoft Power BI** – Dashboard development, visualization, and KPI analysis.
+- **Power Query Editor** – Data cleaning, preprocessing, and transformation.
+- **DAX (Data Analysis Expressions)** – KPI creation and calculated measures.
+- **Microsoft Excel / CSV** – Dataset verification and CSV conversion.
+- **GitHub** – Project repository management and documentation.
+- **GitLab** – Version control and project submission repository.
+- **Microsoft Teams** – Team collaboration, meetings, and mentor communication.
 
 ---
 
-## 📊 Project Workflow
+## 🔄 Project Workflow
 
-1. **Data Collection** – Imported the DataCo Supply Chain Dataset from Kaggle in CSV format.
-2. **Data Cleaning & Preprocessing** – Removed duplicates, corrected data types, handled missing values, merged columns, added custom columns, inserted year column, and created conditional columns using Power Query Editor.
-3. **Data Analysis** – Performed sales, customer, product, shipping, delivery, and regional performance analysis.
-4. **Visualization & Dashboard Development** – Developed seven interactive dashboards using Microsoft Power BI.
-5. **Insights & Interpretation** – Generated business insights and recommendations for supply chain optimization.
+### 1. Problem Statement
+
+Identified the business problem and project objectives related to supply chain visibility and optimization.
+
+### 2. Data Collection
+
+Collected the DataCo Supply Chain Dataset and imported it into Microsoft Power BI.
+
+### 3. Data Understanding
+
+Studied dataset columns, data types, relationships, and important business attributes.
+
+### 4. Data Preprocessing
+
+Performed data cleaning and transformation using Power Query Editor.
+
+### 5. Data Modelling
+
+Removed unnecessary columns, handled missing values, duplicates, and corrected inconsistent records.
+
+### 6. Data Visualization
+
+Created KPI cards, charts, maps, tables, slicers, treemaps, scatter plots, waterfall charts, ribbon charts, and interactive visuals.
+
+### 7. Dashboard Development
+
+Developed seven interactive Power BI dashboards covering different supply chain perspectives.
+
+### 8. Insights & Report Generation
+
+Generated business insights and prepared the final internship report and presentation.
 
 ---
 
-## 🎯 Project Objectives
+## 📌 Key Insights
 
-- Improve supply chain visibility using interactive dashboards.
-- Analyze sales, profit, customer behavior, and product performance.
-- Monitor delivery performance and shipping efficiency.
-- Identify regional business performance and profitability.
-- Support data-driven decision-making using Business Intelligence tools.
+The Power BI dashboards provide insights into:
+
+- Overall supply chain performance.
+- Sales and profit analysis.
+- Product pricing and category performance.
+- Customer behavior and geographic distribution.
+- Delivery status and shipping efficiency.
+- Regional and market performance.
+- Order quantity, discount trends, and profitability.
+
+These insights help identify operational challenges and improve business performance through data-driven decisions.
 
 ---
 
-## 📊 Dashboard Modules
+## 🌟 Project Outcomes
 
-- 📌 Supply Chain Executive Dashboard
-- 📌 Product Performance Dashboard
-- 📌 Customer Analysis Dashboard
-- 📌 Delivery Status Dashboard
-- 📌 Regional & Customer Insights Dashboard
-- 📌 Orders & Discount Analysis Dashboard
-- 📌 Profitability & Business Insights Dashboard
+The project demonstrates how Business Intelligence can improve supply chain operations by:
+
+- Providing better visibility into business performance.
+- Monitoring important KPIs in real time.
+- Identifying delivery delays and logistics challenges.
+- Understanding customer purchasing behavior.
+- Comparing regional market performance.
+- Supporting inventory planning and pricing strategies.
+- Enabling faster and more informed decision-making.
 
 ---
 
 ## 👥 Team Learnings & Outcomes
 
-This project helped strengthen technical knowledge and practical Business Intelligence skills through real-world supply chain analytics.
+Through this internship project, the team gained practical experience in both technical and professional skills.
 
 ### 🔧 Technical Skills
 
-- Microsoft Power BI Dashboard Development
-- Power Query Editor Data Preprocessing
-- Data Cleaning and Transformation
-- KPI Creation and Business Analysis
-- Interactive Dashboard Design
+- Microsoft Power BI Dashboard Development.
+- Power Query Data Preprocessing and Data Cleaning.
+- DAX Measures and KPI Creation.
+- Data Visualization and Business Intelligence Reporting.
+- GitHub and GitLab Repository Management.
 
 ### 💡 Soft Skills
 
-- Problem-solving and analytical thinking
-- Communication and presentation skills
-- Time management
-- Business insight generation
-- Data-driven decision making
+- Problem Solving and Analytical Thinking.
+- Team Collaboration.
+- Communication and Presentation Skills.
+- Project Planning and Time Management.
+- Data-Driven Decision Making.
 
-The internship provided practical exposure to supply chain analytics and Business Intelligence reporting.
+This project provided practical exposure to applying Business Intelligence concepts to a real-world supply chain problem.
 
 ---
 
-## 📈 Future Enhancements
+## 🚀 Future Enhancements
 
-- Integrate real-time supply chain data.
-- Add predictive demand forecasting.
-- Build inventory optimization models.
-- Deploy dashboards on cloud platforms.
-- Implement advanced analytics using Machine Learning.
+- Integrate real-time supply chain data sources.
+- Add predictive analytics for demand forecasting.
+- Develop supplier performance and inventory optimization dashboards.
+- Publish dashboards through Power BI Service for live reporting.
+- Automate report refresh and business monitoring.
 
 ---
 
 ## 🏁 Conclusion
 
-The **Supply Chain Visibility System with Optimization Analytics** project successfully transformed raw supply chain data into meaningful business insights using Microsoft Power BI.
+The **Supply Chain Visibility System with Optimization Analytics** project successfully transformed raw supply chain data into a complete Business Intelligence reporting solution using Microsoft Power BI.
 
-The project provides a centralized reporting solution through seven interactive dashboards covering executive performance, product analysis, customer behavior, delivery performance, regional analysis, discount analysis, and profitability insights. It demonstrates the practical application of Business Intelligence tools for improving operational efficiency and supporting strategic business decisions.
+Seven interactive dashboards provide meaningful insights into sales, customers, products, delivery performance, regional markets, discounts, and profitability.
+
+The project highlights how Power BI dashboards improve operational transparency, support business communication, and enable informed data-driven decisions in supply chain management.
 
 ---
 
 ## 💬 Contributors
 
-- **Jaya Deepika Reddy Challa**
+- **Kapu Tejaswini**
+- **Challa Jaya Deepika Reddy**
+
+The individual presentation materials are available in the **Team_Members_PPT/** folder.
+
+---
+
+## 📅 Internship Details
+
+**Program:** Infosys Springboard Virtual Internship 7.0
+
+**Project:** Supply Chain Visibility System with Optimization Analytics
+
+**Domain:** Data Visualization & Business Intelligence
 
 **Year:** 2026
 
@@ -145,6 +211,12 @@ The project provides a centralized reporting solution through seven interactive 
 
 ## 📌 Notes
 
-This project was developed as part of the **Infosys Springboard Virtual Internship 7.0**.
+- This project was developed as part of the **Infosys Springboard Virtual Internship 7.0**.
+- The dataset and project resources are intended for educational and demonstration purposes.
+- The repository contains the Power BI dashboard, dataset, report, presentations, and supporting project resources.
 
-The dataset used in this project is intended for educational and internship demonstration purposes. The dashboards and analysis were developed to showcase practical Business Intelligence concepts and supply chain optimization techniques.
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
